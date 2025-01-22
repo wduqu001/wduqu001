@@ -7,9 +7,6 @@
     <a href="https://github.com/wduqu001?tab=repositories">
         <img src="https://github-readme-stats-one-bice.vercel.app/api?username=wduqu001&theme=gotham&show_icons=true&count_private=true&hide_border=false&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="40%" alt="@wduqu001's github-readme-stats"/>
     </a>
-    <a href="https://github.com/wduqu001?tab=stars">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=wduqu001&theme=gotham&hide_border=false&date_format=%20M%20Y" width="40%" alt="@wduqu001's github-readme-streak-stats"/>
-    </a>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wduqu001&theme=gotham&layout=compact" width="40%" /> 
 </p>
 
